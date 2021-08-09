@@ -1,0 +1,11 @@
+{
+  "requires": {
+    "NorthWind": {
+      "kind": "odata-v2",
+      "model": "srv\\external\\NorthWind",
+      "credentials": {
+        "url": "https://services.odata.org/V2/Northwind/Northwind.svc/"
+      }
+    }
+  }
+}
