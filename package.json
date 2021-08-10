@@ -2,12 +2,13 @@
   "name": "cap-rest-adapter",
   "version": "1.0.0",
   "description": "Demo SAP CAP Project on how to expose an OData Service as custom REST Service.",
-  "repository": "<Add your repository here>",
+  "repository": "https://github.com/kainiklas/cap-rest-adapter.git",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
     "@sap/cds": "^5",
-    "express": "^4"
+    "express": "^4",
+    "object-mapper": "^6.2.0"
   },
   "devDependencies": {
     "sqlite3": "^5.0.2"
