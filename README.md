@@ -26,8 +26,8 @@ Reasons why you want or need to create such an adapter:
 
 ## Related Blog Post
 
-- Insert Link here
+- https://blog.kai-niklas.de/posts/12-sap-cap-adapter-odata-custom-rest/
 
-## Learn More
+## Learn More about SAP CAP
 
 Learn more at <https://cap.cloud.sap/docs/get-started/>.
